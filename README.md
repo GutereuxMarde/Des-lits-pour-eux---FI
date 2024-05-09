@@ -3,9 +3,12 @@
 ## Description
 Dans cette fiction interactive purement textuelle, vous contrôlez un personnage étrange chargé d'un cadavre cherchant une terre saine pour l'inhumer. Vos prérégrinations vous feront passer par des lieux aussi inhospitaliers que mystérieux où le danger guette à tout instant. Selon les choix que vous faîtes, les objets que vous obtiendrez ou perdrez, les routes que vous prendrez, vous déboucherez sur l'une des cinq fins disponible dans le jeu. Ce dernier est également accompagné de diverses musiques habillant les différentes séquences. Sur la gauche de votre écran, vous verez un petit onglet permettant de régler le volume à votre guise.
 
-![Dashboard view](/DesLitsPourEux-ecranTitre.PNG)
 
-![Dashboard view](/Premier-écran.PNG)
+![Image de l'écran titre](images/DesLitsPourEux-ecranTitre.PNG "L'écran titre du jeu")
+
+![Image Premier Ecran](images/PremierEcran.PNG "Le premier écran du jeu, avec l'onglet pour gérer la musique ouvert.")
+
+
 
 ## Installation
 Pour jouer au jeu, il vous suffira d'installer le fichier du jeu et de l'extraire.
