@@ -5,7 +5,7 @@ Dans cette fiction interactive purement textuelle, vous contrôlez un personnage
 
 ![Dashboard view](/DesLitsPourEux-ecranTitre.PNG)
 
-![Dashboard view](/Premier écran.PNG)
+![Dashboard view](/Premier-écran.PNG)
 
 ## Installation
 Pour jouer au jeu, il vous suffira d'installer le fichier du jeu et de l'extraire.
