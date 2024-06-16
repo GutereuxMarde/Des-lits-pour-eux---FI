@@ -1,7 +1,7 @@
 # Des lits pour eux
 
 ## Description
-Dans cette fiction interactive purement textuelle, vous contrôlez un personnage étrange chargé d'un cadavre cherchant une terre saine pour l'inhumer. Vos prérégrinations vous feront passer par des lieux aussi inhospitaliers que mystérieux où le danger guette à tout instant. Selon les choix que vous faîtes, les objets que vous obtiendrez ou perdrez, les routes que vous prendrez, vous déboucherez sur l'une des cinq fins disponible dans le jeu. Ce dernier est également accompagné de diverses musiques habillant les différentes séquences. Sur la gauche de votre écran, vous verez un petit onglet permettant de régler le volume à votre guise.
+Dans cette fiction interactive purement textuelle, vous contrôlez un personnage étrange chargé d'un cadavre cherchant une terre saine pour l'inhumer. Vos pérégrinations vous feront passer par des lieux aussi inhospitaliers que mystérieux où le danger guette à tout instant. Selon les choix que vous faîtes, les objets que vous obtiendrez ou perdrez, les routes que vous prendrez, vous déboucherez sur l'une des cinq fins disponibles dans le jeu. Ce dernier est également accompagné de diverses musiques habillant les différentes séquences. Sur la gauche de votre écran, vous verrez un petit onglet permettant de régler le volume à votre guise.
 
 
 ![Image de l'écran titre](images/DesLitsPourEux-ecranTitre.PNG "L'écran titre du jeu")
@@ -11,7 +11,7 @@ Dans cette fiction interactive purement textuelle, vous contrôlez un personnage
 
 
 ## Installation
-Pour jouer au jeu, il vous suffira d'installer le fichier du jeu et de l'extraire.
+Pour jouer au jeu, il vous suffira d'installer le fichier du jeu (Des lits pour eux.zip) et de l'extraire. Cliquez par la suite sur le fichier HTML dans le dossier.
 
 ## Supplément
 Associé au fichier du jeu, vous trouverez un fichier contenant les différentes pistes audio.
@@ -73,5 +73,5 @@ Cosmic Horror Theme - SamuelFrancisJohnson   https://pixabay.com/music/mystery-c
 Shaking Towel - Pixabay   https://pixabay.com/sound-effects/shaking-towel-95722/
 
 ## Contexte de développement
-Ce jeu a étét réalisé sur Twine - Harlowe dans le cadre du cours Fiction Interactive dispensé par Isaac Pante (SLI, Lettres, UNIL) à l'Université de Lausanne.
+Ce jeu a été réalisé sur Twine - Harlowe dans le cadre du cours Fiction Interactive dispensé par Isaac Pante (SLI, Lettres, UNIL) à l'Université de Lausanne.
 
