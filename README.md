@@ -73,5 +73,5 @@ Cosmic Horror Theme - SamuelFrancisJohnson   https://pixabay.com/music/mystery-c
 Shaking Towel - Pixabay   https://pixabay.com/sound-effects/shaking-towel-95722/
 
 ## Contexte de développement
-Ce jeu a été réalisé sur Twine - Harlowe dans le cadre du cours Fiction Interactive dispensé par Isaac Pante (SLI, Lettres, UNIL) à l'Université de Lausanne.
+Ce jeu a été réalisé par Arthur Garbi sur Twine - Harlowe dans le cadre du cours Fiction Interactive dispensé par Isaac Pante (SLI, Lettres, UNIL) à l'Université de Lausanne.
 
